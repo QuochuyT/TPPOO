@@ -1,4 +1,4 @@
-# Tp_Poo
+# TPPOO
 # Projet de Cartes - Application de Ligne de Commande
 
 Ce projet est une application simple de ligne de commande permettant à l'utilisateur de créer et de gérer des cartes de questions/réponses.
